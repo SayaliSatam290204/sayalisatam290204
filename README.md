@@ -26,8 +26,6 @@ I enjoy developing practical solutions, designing user-friendly interfaces, buil
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-### 💻 Languages
-
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,10 +53,10 @@ I enjoy developing practical solutions, designing user-friendly interfaces, buil
 ---
 
 ### ⚙️ Backend & Database
-![Node.js]([https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white))
-![Express.js]([https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white))
-![MongoDB]([https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white))
-![MySQL]([https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white))
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Backend Skills:**
 
@@ -76,10 +74,10 @@ I enjoy developing practical solutions, designing user-friendly interfaces, buil
 ---
 
 ### 🧰 Tools & Technologies
-![Git]([https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white))
-![GitHub]([https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white))
-![Vite]([https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white))
-![Postman]([https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white))
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 * Git & GitHub
 * VS Code
