@@ -26,9 +26,9 @@ I enjoy developing practical solutions, designing user-friendly interfaces, buil
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript]([https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))
-![Java]([https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
-![Python]([https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 ---
 
 ### 🌐 Frontend Development
