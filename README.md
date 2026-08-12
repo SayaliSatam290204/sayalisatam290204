@@ -168,7 +168,7 @@ A desktop-based hostel management application developed for managing hostel-rela
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SayaliSatam290204&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=sayalisatam290204&show_icons=true&theme=tokyonight"
     width="48%"
   />
   <img
