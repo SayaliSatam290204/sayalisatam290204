@@ -172,7 +172,7 @@ A desktop-based hostel management application developed for managing hostel-rela
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SayaliSatam290204&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sayalisatam290204&theme=tokyonight"
     width="48%"
   />
 </p>
