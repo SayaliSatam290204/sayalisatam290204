@@ -167,14 +167,11 @@ A desktop-based hostel management application developed for managing hostel-rela
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sayalisatam290204&show_icons=true&theme=tokyonight"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sayalisatam290204&theme=tokyonight"
-    width="48%"
-  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayalisatam290204&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayalisatam290204&theme=tokyonight)
+
 </p>
 
 ---
